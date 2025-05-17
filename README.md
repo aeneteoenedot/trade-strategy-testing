@@ -1,6 +1,11 @@
 # Trade Strategy Testing
 
 This project provides a framework for developing, testing, and analyzing trading strategies. It is designed to help traders and developers evaluate the performance of various strategies using historical market data.
+## Example Results
+
+[Results CSV](https://github.com/aeneteoenedot/trade-strategy-testing/blob/ed7d0bc22439721900073a7e655dcfb61dfadf18/backtesting_results.csv)
+
+[Results PDF](https://github.com/aeneteoenedot/trade-strategy-testing/blob/ed7d0bc22439721900073a7e655dcfb61dfadf18/backtesting_results.pdf)
 
 ## Features
 
